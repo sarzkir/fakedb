@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Hello World",
+      "content": "Lorem ipsum"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "userId": 2,
+      "comment": "Test Comment"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "sarzkir",
+      "isActive": true
+    }
+  ]
+}

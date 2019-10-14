@@ -1,1 +1,3 @@
-# fakedb
+# Fake DB generator
+
+Fake db
