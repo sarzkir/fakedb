@@ -23,6 +23,13 @@
       "username": "testuser",
       "password": "testpass",
       "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Test User 2",
+      "username": "testuser2",
+      "password": "testpass2",
+      "isActive": true
     }
   ],
   "admins": [
