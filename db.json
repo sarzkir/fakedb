@@ -4,7 +4,8 @@
       "id": 1,
       "userId": 1,
       "title": "Hello World",
-      "content": "Lorem ipsum"
+      "content": "Lorem ipsum",
+      "isActive": true
     }
   ],
   "comments": [
@@ -18,8 +19,18 @@
   "users": [
     {
       "id": 1,
-      "username": "sarzkir",
-      "password": "testing",
+      "name": "Test User",
+      "username": "testuser",
+      "password": "testpass",
+      "isActive": true
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "name": "Administrator",
+      "username": "admin",
+      "password": "admin123",
       "isActive": true
     }
   ]
