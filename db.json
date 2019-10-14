@@ -5,7 +5,7 @@
       "userId": 1,
       "title": "Hello World",
       "content": "Lorem ipsum",
-      "isPublished": true
+      "isPublished": false
     }
   ],
   "comments": [
