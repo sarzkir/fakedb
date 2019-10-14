@@ -19,6 +19,7 @@
     {
       "id": 1,
       "username": "sarzkir",
+      "password": "testing",
       "isActive": true
     }
   ]
